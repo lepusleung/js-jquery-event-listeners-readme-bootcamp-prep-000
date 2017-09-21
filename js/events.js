@@ -24,7 +24,7 @@ function submitIt() {
   });
 }+
   $(document).ready(function(){
-  
+
   // call functions here
   getIt();
 
@@ -34,5 +34,5 @@ function submitIt() {
 
   submitIt();
 
-  
+
   });
